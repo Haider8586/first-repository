@@ -44,10 +44,10 @@ if(menuBtn){
         nav.classList.add('active')
     })
 }
-if(menuClose){
-    menuClose.addEventListener('click',()=>{
-        nav.classList.remove('active')
-    })
-}
-}
-sidemenuBar();
+// if(menuClose){
+//     menuClose.addEventListener('click',()=>{
+//         nav.classList.remove('active')
+//     })
+// }
+// }
+// sidemenuBar();
